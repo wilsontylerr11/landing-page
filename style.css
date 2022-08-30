@@ -11,7 +11,18 @@ body {
 
 .header {
   background: #1F2937;
-  height: 500px;
+  height: 100px;
+  font-family: #E5E7EB;
+  font-size: 48px;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding-top: 20px;
+}
+
+.second {
+  background: #1F2937;
+  height: 400px;
   font-family: #E5E7EB;
   font-size: 48px;
   display: flex;
